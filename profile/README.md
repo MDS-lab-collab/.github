@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="../assets/mds-logo.png" width="190" alt="Magen Daniel Systems LLP">
+
+<img src="../assets/MDS_logo.svg" width="190" alt="Magen Daniel Systems LLP Logo">
 
 <br>
 
