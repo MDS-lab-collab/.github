@@ -1,15 +1,8 @@
 <div align="center">
 
-
-<div align="center">
-
 <img src="https://raw.githubusercontent.com/MDS-lab-collab/.github/main/assets/MDS_logo.svg"
      width="190"
      alt="Magen Daniel Systems LLP Logo">
-
-</div>
-
-<br>
 
 # MAGEN DANIEL SYSTEMS LLP
 
