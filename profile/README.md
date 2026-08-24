@@ -6,6 +6,8 @@
 
 # MAGEN DANIEL SYSTEMS LLP
 
+<br>
+
 # PRIVACY POLICY
 
 ### *Privacy & Personal Data Protection Policy*
