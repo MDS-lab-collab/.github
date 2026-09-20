@@ -14,13 +14,20 @@ Questions, technical clarification, coordination with MDS engineers, reasonable 
 
 A price adjustment may be discussed only where MDS requests a genuine material scope change, additional deliverables, or work outside the agreed scope. The change should be approved before the extra work begins.
 
-## 3. Customer cancellation before work starts
-If a customer cancels before the engineer begins the funded milestone, no compensation is due for unperformed work unless a separate written commitment states otherwise.
+## 3. Acceptance checkpoint
+Before accepting a milestone, the engineer should complete the reasonable clarification needed to understand the agreed scope.
 
-## 4. Customer cancellation after work starts
-If a customer cancels after work starts, MDS will review the engineer's completed and documented work.
+When the engineer then formally accepts the milestone and starts work, that acceptance is the checkpoint at which the engineer takes responsibility for delivering the agreed scope, subject to the limitations and dependencies documented in the project record.
 
-Compensation may be approved for:
+## 4. Customer cancellation before engineer acceptance or work start
+A customer may request cancellation during the applicable cancellation window shown for the project or milestone and before the engineer has formally accepted and started the funded work.
+
+If cancellation is approved at that stage, no engineer compensation is due for unperformed work unless a separate written commitment states otherwise.
+
+## 5. Customer cancellation after engineer acceptance or work start
+After the engineer has accepted and started the milestone, a customer may still request cancellation or a refund, but a full refund is not automatic.
+
+MDS will review the engineer's completed and documented work. Compensation may be approved for:
 - accepted completed work;
 - objectively usable work product delivered to MDS;
 - documented work in progress that MDS elects to retain; and
@@ -28,23 +35,25 @@ Compensation may be approved for:
 
 Unperformed work is not payable.
 
-## 5. Rejected or non-conforming work
+The engineer remains responsible for the quality and conformity of work performed within the agreed scope up to the effective cancellation point.
+
+## 6. Rejected or non-conforming work
 MDS may request correction where a deliverable materially fails the agreed scope, contains demonstrable engineering errors, is incomplete, or does not include agreed source files/evidence.
 
 A milestone may be withheld or adjusted for unresolved material non-conformity, subject to the applicable contract and project record.
 
-## 6. Payment reversal or chargeback
+## 7. Payment reversal or chargeback
 If a customer payment is reversed, charged back, found fraudulent, or never settles, MDS may temporarily hold corresponding engineer settlement while the payment issue is investigated.
 
 This does not permit MDS to deduct the separate customer proposal service fee from the engineer's agreed compensation.
 
-## 7. Duplicate or erroneous engineer payment
+## 8. Duplicate or erroneous engineer payment
 Verified duplicate or erroneous engineer payments may be corrected or reversed. MDS will document the basis for any adjustment.
 
-## 8. Unauthorized scope expansion
+## 9. Unauthorized scope expansion
 Engineers must not perform additional paid work and later demand payment without prior approval where the work was outside the agreed scope.
 
-## 9. Evidence for payment review
+## 10. Evidence for payment review
 The engineer should retain:
 - dated source files;
 - revision history;
@@ -54,12 +63,12 @@ The engineer should retain:
 - milestone submissions; and
 - MDS approvals or change requests.
 
-## 10. Disputes
-If there is a payment or milestone dispute, MDS will review the written scope, communications, submissions, engineering evidence, and payment status before deciding the milestone outcome.
+## 11. Disputes
+If there is a payment or milestone dispute, MDS will review the written scope, communications, submissions, engineering evidence, acceptance timestamp, cancellation timing, and payment status before deciding the milestone outcome.
 
-## 11. Mandatory contractual and legal rights
+## 12. Mandatory contractual and legal rights
 This policy is subject to the applicable project agreement, NDA, IP terms, platform terms, and mandatory law.
 
-## 12. Contact
+## 13. Contact
 Magen Daniel Systems LLP  
 Email: contact@magen-danielsystems.com
